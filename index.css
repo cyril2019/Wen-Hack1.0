@@ -227,7 +227,7 @@ body {
 }
 .disc-text {
   margin-left: 400px;
-  max-width: 700%;
+  max-width: 70%;
   padding: 50px 10px 10px 10px;
   font-size: 30px;
 }
@@ -485,7 +485,7 @@ ol.carousel-indicators li.active {
   }
   .disc-text {
     margin-left: 0px;
-    max-width: 1000%;
+    max-width: 100%;
     padding: 50px 10px 10px 20px;
     font-size: 30px;
   }
