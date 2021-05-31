@@ -358,11 +358,12 @@ ol.carousel-indicators li.active {
   display: block;
   margin-left: 5vw;
   opacity: 0.05;
-  height: max-content;
+
   max-height: 300px;
-  max-width: 100%;
+  max-width: 80vw;
   object-position: 50% 0%;
   position: absolute;
+  left: 0;
 }
 .footer-button {
   background-color: var(--color-secondary);
