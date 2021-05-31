@@ -10,7 +10,7 @@
 body {
   margin: 0;
   padding: 0;
-  margin: auto;
+  width: 100vw;
 }
 
 * {
@@ -407,6 +407,7 @@ ol.carousel-indicators li.active {
   /* header */
   body {
     overflow-x: hidden;
+    width: 100vw;
   }
   .header {
     height: max-content;
