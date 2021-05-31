@@ -401,6 +401,9 @@ ol.carousel-indicators li.active {
   .background-home {
     display: none;
   }
+  .footer-img {
+    display: none;
+  }
 }
 
 /* styles for phone view */
