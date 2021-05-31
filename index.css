@@ -360,7 +360,7 @@ ol.carousel-indicators li.active {
   opacity: 0.05;
   height: max-content;
   max-height: 300px;
-
+  max-width: 100%;
   object-position: 50% 0%;
   position: absolute;
 }
@@ -525,5 +525,8 @@ ol.carousel-indicators li.active {
   }
   .copywrite {
     margin-top: 50px;
+  }
+  .footer-img {
+    display: none;
   }
 }
